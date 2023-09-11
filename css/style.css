@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "poppins";
+  src: url(<linkrel="preconnect"href="https://fonts.googleapis.com"><linkrel="preconnect"href="https://fonts.gstatic.com"crossorigin><linkhref="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap"rel="stylesheet">);
+}
+body {
+  background-image: url(../img/soft-aesthetic-cei80uravrnl6ltm.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "poppins", Arial, Helvetica, sans-serif;
+}
+nav {
+  font-size: 1.2rem;
+  background-color: rgb(0, 0, 0);
+  font-weight: 500;
+}
+.navbar-nav li {
+  margin-right: 20px;
+}
